@@ -1,0 +1,12 @@
+D:\Demo\Parimal\Infrastuctore\bin\Debug\netstandard2.0\Infrastuctore.deps.json
+D:\Demo\Parimal\Infrastuctore\bin\Debug\netstandard2.0\Infrastuctore.dll
+D:\Demo\Parimal\Infrastuctore\bin\Debug\netstandard2.0\Infrastuctore.pdb
+D:\Demo\Parimal\Infrastuctore\bin\Debug\netstandard2.0\Core.dll
+D:\Demo\Parimal\Infrastuctore\bin\Debug\netstandard2.0\Core.pdb
+D:\Demo\Parimal\Infrastuctore\obj\Debug\netstandard2.0\Infrastuctore.csprojAssemblyReference.cache
+D:\Demo\Parimal\Infrastuctore\obj\Debug\netstandard2.0\Infrastuctore.csproj.CoreCompileInputs.cache
+D:\Demo\Parimal\Infrastuctore\obj\Debug\netstandard2.0\Infrastuctore.AssemblyInfoInputs.cache
+D:\Demo\Parimal\Infrastuctore\obj\Debug\netstandard2.0\Infrastuctore.AssemblyInfo.cs
+D:\Demo\Parimal\Infrastuctore\obj\Debug\netstandard2.0\Infrastuctore.csproj.CopyComplete
+D:\Demo\Parimal\Infrastuctore\obj\Debug\netstandard2.0\Infrastuctore.dll
+D:\Demo\Parimal\Infrastuctore\obj\Debug\netstandard2.0\Infrastuctore.pdb
