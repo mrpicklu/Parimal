@@ -1,9 +1,10 @@
 <div class="d-flex flex-column flex-md-row align-items-center justify-content-between p-3 px-md-3 mb-2 bg-white border-bottom shadow-sm fixed-top">
-    <img src="" style="max-height:70px;" alt="logo">
+    <img src="/assets/images/logo.jpg" style="max-height:70px;" class="logo" alt="logo" routerLink="/">
+    
     <nav class="my-2 my-md-0 mr-md-3 text-uppercase" style="font-size: larger;">
-      <a class="p-2 text-dark" href="#">Home</a>
-      <a class="p-2 text-dark" href="#">Shope</a>
-      <a class="p-2 text-dark" href="#">Contact</a>
+      <a class="p-2" [routerLink]="['/']" routerLinkActive="active" [routerLinkActiveOptions] = "{exact: true}" >Home</a>
+      <a class="p-2" routerLink="/shop" routerLinkActive="active" >Shope</a>
+      <a class="p-2" href="#">Contact</a>
       
     </nav>
     <div class="d-flex align-items-center">

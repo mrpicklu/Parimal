@@ -47,6 +47,7 @@ export class ShopComponent implements OnInit {
     this.shopService.getBrands().subscribe(response => {
       this.brands = [{id: 0, name: 'All' }, ...response];
 
+    // tslint:disable-next-line: no-shadowed-variable
     }, error => {
       console.log(error);
     });
@@ -56,6 +57,7 @@ export class ShopComponent implements OnInit {
     this.shopService.getTypes().subscribe(response => {
       this.types = [{id: 0, name: 'All' }, ...response];
 
+    // tslint:disable-next-line: no-shadowed-variable
     }, error => {
       console.log(error);
     });
