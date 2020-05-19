@@ -1,11 +1,28 @@
 {
   "version": 2,
-  "dgSpecHash": "rQV1hYLee8Ws6jUh2y7XqZ09efxVwsLNmpnFeeTcTLLIKCanxTC8KMvbT4Tm9+HTB1ImLjc2rcnYlwIA2YKjRQ==",
+  "dgSpecHash": "nJ6enRr3iRWMvyXwmwvLp9rBTxWje4znE5nsLkX2bqORj8OvShFpBGz2vsNmzx8QWO9nBWtzBNICEYgXCmYYFQ==",
   "success": true,
   "projectFilePath": "D:\\Demo\\Parimal\\Core\\Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\mrpic\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.1\\microsoft.aspnetcore.cryptography.internal.3.1.1.nupkg.sha512",
+    "C:\\Users\\mrpic\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.1\\microsoft.aspnetcore.cryptography.keyderivation.3.1.1.nupkg.sha512",
+    "C:\\Users\\mrpic\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.1\\microsoft.extensions.caching.abstractions.3.1.1.nupkg.sha512",
+    "C:\\Users\\mrpic\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.1\\microsoft.extensions.configuration.3.1.1.nupkg.sha512",
+    "C:\\Users\\mrpic\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.1\\microsoft.extensions.configuration.abstractions.3.1.1.nupkg.sha512",
+    "C:\\Users\\mrpic\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.1\\microsoft.extensions.configuration.binder.3.1.1.nupkg.sha512",
+    "C:\\Users\\mrpic\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.1\\microsoft.extensions.dependencyinjection.3.1.1.nupkg.sha512",
+    "C:\\Users\\mrpic\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.1\\microsoft.extensions.dependencyinjection.abstractions.3.1.1.nupkg.sha512",
+    "C:\\Users\\mrpic\\.nuget\\packages\\microsoft.extensions.identity.core\\3.1.1\\microsoft.extensions.identity.core.3.1.1.nupkg.sha512",
+    "C:\\Users\\mrpic\\.nuget\\packages\\microsoft.extensions.identity.stores\\3.1.1\\microsoft.extensions.identity.stores.3.1.1.nupkg.sha512",
+    "C:\\Users\\mrpic\\.nuget\\packages\\microsoft.extensions.logging\\3.1.1\\microsoft.extensions.logging.3.1.1.nupkg.sha512",
+    "C:\\Users\\mrpic\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.1\\microsoft.extensions.logging.abstractions.3.1.1.nupkg.sha512",
+    "C:\\Users\\mrpic\\.nuget\\packages\\microsoft.extensions.options\\3.1.1\\microsoft.extensions.options.3.1.1.nupkg.sha512",
+    "C:\\Users\\mrpic\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.1\\microsoft.extensions.primitives.3.1.1.nupkg.sha512",
+    "C:\\Users\\mrpic\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\mrpic\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\mrpic\\.nuget\\packages\\system.memory\\4.5.2\\system.memory.4.5.2.nupkg.sha512",
+    "C:\\Users\\mrpic\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\mrpic\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.0\\system.runtime.compilerservices.unsafe.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
