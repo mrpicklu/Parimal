@@ -9,6 +9,7 @@ using API.Middleware;
 using AutoMapper;
 using Core.Interfaces;
 using Infrastuctore.Data;
+using Infrastuctore.Identity;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -40,12 +41,17 @@ namespace API
             services.AddAutoMapper(typeof(MappingProfiles));
             services.AddControllers();
             services.AddDbContext<StoreContext>(x => x.UseSqlite(_Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<AppIdentityDbContext>(x => {
+                x.UseSqlite(_Configuration.GetConnectionString("IdentityConnection"));
+            });
             services.AddSingleton<IConnectionMultiplexer>(c => {
                 var configuration = ConfigurationOptions.Parse(_Configuration.GetConnectionString("Redis"),
                 true);
                 return ConnectionMultiplexer.Connect(configuration);
             });
+
             services.AddApplicationServices();
+            services.AddIdentityServices(_Configuration);
             services.AddSwaggerDocumentation();
             services.AddCors(opt =>
             {
@@ -68,6 +74,7 @@ namespace API
             app.UseRouting();
             app.UseStaticFiles();
             app.UseCors("CorsPolicy");
+            app.UseAuthentication();
 
             app.UseAuthorization();
             
