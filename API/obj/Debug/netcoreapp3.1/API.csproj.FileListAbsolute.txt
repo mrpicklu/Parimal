@@ -60,8 +60,6 @@ D:\Demo\Parimal\API\bin\Debug\netcoreapp3.1\Core.dll
 D:\Demo\Parimal\API\bin\Debug\netcoreapp3.1\Infrastuctore.dll
 D:\Demo\Parimal\API\bin\Debug\netcoreapp3.1\Infrastuctore.pdb
 D:\Demo\Parimal\API\bin\Debug\netcoreapp3.1\Core.pdb
-D:\Demo\Parimal\API\bin\Debug\netcoreapp3.1\Core\obj\Core.csproj.nuget.dgspec.json
-D:\Demo\Parimal\API\bin\Debug\netcoreapp3.1\Core\obj\project.assets.json
 D:\Demo\Parimal\API\bin\Debug\netcoreapp3.1\AutoMapper.dll
 D:\Demo\Parimal\API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\Demo\Parimal\API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
